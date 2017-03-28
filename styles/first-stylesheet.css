@@ -74,6 +74,11 @@ a:hover {
   margin-right : 4.5em;
 }
 
+.container:nth-child(2) {
+  background: white;
+}
+
+
 .footer {
   color: #1493ff;
   font-size: : 2em;
